@@ -126,10 +126,10 @@ header {
 #banner .arrow {
 	position: absolute;
 }
-#banner .arrow_left {
+#banner .arrow-left {
 	left: 10px;
 }
-#banner .arrow_right {
+#banner .arrow-right {
 	right: 10px;
 }
 /* Gestion des points du carrousel */
@@ -147,7 +147,7 @@ header {
 	border-radius: 100%;
 	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);;
 }
-.dot-1 {
+.dot-selected {
 	background-color: #fff;
 }
 /* Fin du code CSS pour le carousel */
